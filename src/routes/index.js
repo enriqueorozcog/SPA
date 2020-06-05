@@ -10,7 +10,6 @@ const routes = {
     '/': Home,
     '/:id': Character,
     '/contact': 'Contact',
-
 };
 
 const router = async () => {
